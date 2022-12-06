@@ -1,60 +1,60 @@
-﻿Date,Lost Funds,Location,Type,Enitty,Hacker ID,Method,
-1/5/2017,"1,800,000",United States,Traditional,National Bank of Blacksburg,Unknown,Phising,
-2/1/2017,"7,000,000",South Korea,Cryptocurrency,BitHumb,North Korea,Insider,
-4/22/2017,"5,600,000",South Korean,Cryptocurrency,YouBit,North Korea,External Hack,
-6/29/2017,"7,000,000",South Korean,Cryptocurrency,BitHumb,North Korea,Phising,
-9/23/2017,"2,190,000",South Korean,Cryptocurrency,Coinis,North Korea,Phishing,
-10/1/2017,"14,000,000",Taiwan,Traditional,Far Eastern International Bank ,North Korea,MalWare,
-12/19/2017,"76,711,200",South Korean,Cryptocurrency,YouBit,North Korea,External Hack,
-12/6/2017,"70,000,000",Slovenian,Cryptocurrency,NiceHash,North Korea,MalWare,
-1/17/2018,"237,025",Kenya,Traditional,National Bank of Kenya,Nonstate actor,MalWare,
-1/26/2018,"534,000,000",Japan,Cryptocurrency,Coincheck,North Korea,External Hack,
-2/7/2018,"500,000,000",Netherlands,Traditional,Banking sector,Nonstate actor,Phishing,
-2/9/2018,"170,000,000", Italy,Cryptocurrency,BitGrail,Unknown,Internal Hack,
-2/18/2018,"1,000,000",India,Traditional,City Union Bank,North Korea,External Hack,
-3/18/2018,"125,000",United States,Traditional,ATMs,Nonstate actor,MalWare,
-5/12/2018,"15,000,000",Mexico,Traditional,Banco de Mexico,Unknown,External Hack,
-5/24/2018,"10,000,000",Chile,Traditional,Banco de Chile,North Korea,MalWare,
-6/10/2018,"37,000,000",South Korea,Cryptocurrency,Coinrail,Unknown,External Hack,
-6/19/2018,"31,000,000",South Korea,Cryptocurrency,BitHumb,North Korea,Phisihing,
-7/3/2018,"1,000,000",Russia,Traditional,Automated Workstation Client,Nonstate actor,MalWare,
-8/11/2018,"13,500,000",India,Traditional,Cosmos Bank,North Korea,MalWare,
-9/5/2018,"550,000",Russia,Traditional,Russian Central Bank’s,Nonstate actor,External Hack,
-9/14/2018,"60,000,000",Japan,Cryptocurrency,Zaif,Unknown,External Hack,
-10/2/2018,"4,000,000",Mauritius,Traditional,State Bank of Mauritius,Unknown,External Hack,
-10/29/2018,"19,500",Pakistan,Traditional,Bank Islami,Unknown,External Hack,
-12/1/2018,"3,200,000",South Africa,Traditional, Postbank,Insider,Internal Hack,
-11/14/2018,"125,000",United States,Traditional,ATMs,Nonstate actor,MalWare,
-3/24/2019,"7,000,000",Singapore,Cryptocurrency,DragonEx,North Korea,External Hack,
-3/27/2019,"49,000,000",Kuwait,Traditional,bank in Kuwait,North Korea,External Hack,
-3/29/2019,"20,000,000",South Korea,Cryptocurrency,BitHumb,North Korean,Phishing,
-5/31/2019,"3,000,000",Bangladesh,Traditional,Dutch Bangla Bank,Nonstate actor,MalWare,
-6/25/2019,"26,000,000",Netherlands,Cryptocurrency,Mutiple exchanges,Unknown,External Hack,
-7/12/2019,"32,000,000",Japan,Cryptocurrency,Bitpoint,Unknown,External Hack,
-7/12/2019,"32,000,000",Japan,Cryptocurrency,Remixpoint,Unknown,External Hack,
-9/2/2019,"300,000",Nepal,Traditional,ATMs,China,MalWare,
-11/28/2019,"48,500,000",South Korea,Cryptocurrency,Upbit,Unknown,External Hack,
-12/3/2019,"718,392",United Kingdom,Traditional,Private equity firms,Unknown,Phishing,
-1/15/2020,"35,000,000",United Arab Emirates,Traditional,Hong Kong-based bank,Unknown,External Hack,
-5/14/2020,"10,000,000",Norway,Traditional,Norway's state investment fund,Unknown,Phising,
-7/15/2020,"113,500",United States,Cryptocurrency,Twitter Accounts,Nonstate actor,Internal Hack,
-7/30/2020,"21,306.82",Rwanda,Traditional,Nesen Industry Company's bank,Nonstate actor,MalWare,
-10/5/2020,"3,200,000",Uganda,Traditional,Pegasus Technologies,Unknown,SIM Devices,
-3/23/2021,"40,000,000",United States,Traditional,CNA Financial,Nonstate actor,MalWare,
-8/18/2021,"97,000,000",Japan,Cryptocurrency,Liquid,Unknown,External Hack,
-8/30/2021,"29,000,000",Taiwan,Cryptocurrency,Cream Finance,Unknown,External Hack,
-10/27/2021,"130,000,000",Taiwan,Cryptocurrency,Cream Finance,Unknown,External Hack,
-11/6/2021,"55,000,000",N/A,Cryptocurrency,bZx,Unknown,External Hack,
-12/1/2021,"31,000,000",Singapore,Cryptocurrency,MonoX Finance,Unknown,External Hack,
-12/2/2021,"120,300,000",N/A,Cryptocurrency,BadgerDAO,Unknown,MalWare,
-12/5/2021,"200,000,000",N/A,Cryptocurrency,Bitmart,Unknown,External Hack,
-12/11/2021,"77,700,000",N/A,Cryptocurrency,AscendEX,Unknown,External Hack,
-12/23/2021,"13,700,000",Singapore,Traditional,OCBC,Unknown,Phishing,
-1/17/2022,"35,000,000",N/A,Cryptocurrency,Crypto.com,Unknown,External Hack,
-1/17/2022,"1,400,000",N/A,Cryptocurrency,Multichain,Unknown,External Hack,
-1/28/2022,"80,000,000",N/A,Cryptocurrency,Qubit Finance,Unknown,External Hack,
-2/2/2022,"322,000,000",N/A,Cryptocurrency,Wormhole,Unknown,External Hack,
-2/8/2022,"36,000,000",United States,Cryptocurrency,IRA Financial Trust,Unknown,External Hack,
-3/23/2022,"615,000,000",N/A,Cryptocurrency,Ronin,North Korean,External Hack,
-4/18/2022,"180,000,000",N/A,Cryptocurrency,Beanstalk Farms,Unknown,External Hack,
-11/12/2022,"477,000,000",Bahamas,Cryptocurrency,FTX,Unknown,External Hack,
+﻿Date,Lost Funds,Location,Type,Enitty,Hacker ID,Method
+1/5/2017,"1,800,000",United States,Traditional,National Bank of Blacksburg,Unknown,Phishing
+2/1/2017,"7,000,000",South Korea,Cryptocurrency,BitHumb,North Korea,Insider
+4/22/2017,"5,600,000",South Korea,Cryptocurrency,YouBit,North Korea,External Hack
+6/29/2017,"7,000,000",South Korea,Cryptocurrency,BitHumb,North Korea,Phishing
+9/23/2017,"2,190,000",South Korea,Cryptocurrency,Coinis,North Korea,Phishing
+10/1/2017,"14,000,000",Taiwan,Traditional,Far Eastern International Bank ,North Korea,MalWare
+12/19/2017,"76,711,200",South Korea,Cryptocurrency,YouBit,North Korea,External Hack
+12/6/2017,"70,000,000",Slovenian,Cryptocurrency,NiceHash,North Korea,MalWare
+1/17/2018,"237,025",Kenya,Traditional,National Bank of Kenya,Nonstate actor,MalWare
+1/26/2018,"534,000,000",Japan,Cryptocurrency,Coincheck,North Korea,External Hack
+2/7/2018,"500,000,000",Netherlands,Traditional,Banking sector,Nonstate actor,Phishing
+2/9/2018,"170,000,000", Italy,Cryptocurrency,BitGrail,Unknown,Internal Hack
+2/18/2018,"1,000,000",India,Traditional,City Union Bank,North Korea,External Hack
+3/18/2018,"125,000",United States,Traditional,ATMs,Nonstate actor,MalWare
+5/12/2018,"15,000,000",Mexico,Traditional,Banco de Mexico,Unknown,External Hack
+5/24/2018,"10,000,000",Chile,Traditional,Banco de Chile,North Korea,MalWare
+6/10/2018,"37,000,000",South Korea,Cryptocurrency,Coinrail,Unknown,External Hack
+6/19/2018,"31,000,000",South Korea,Cryptocurrency,BitHumb,North Korea,Phishing
+7/3/2018,"1,000,000",Russia,Traditional,Automated Workstation Client,Nonstate actor,MalWare
+8/11/2018,"13,500,000",India,Traditional,Cosmos Bank,North Korea,MalWare
+9/5/2018,"550,000",Russia,Traditional,Russian Central Bank’s,Nonstate actor,External Hack
+9/14/2018,"60,000,000",Japan,Cryptocurrency,Zaif,Unknown,External Hack
+10/2/2018,"4,000,000",Mauritius,Traditional,State Bank of Mauritius,Unknown,External Hack
+10/29/2018,"19,500",Pakistan,Traditional,Bank Islami,Unknown,External Hack
+12/1/2018,"3,200,000",South Africa,Traditional, Postbank,Insider,Internal Hack
+11/14/2018,"125,000",United States,Traditional,ATMs,Nonstate actor,MalWare
+3/24/2019,"7,000,000",Singapore,Cryptocurrency,DragonEx,North Korea,External Hack
+3/27/2019,"49,000,000",Kuwait,Traditional,bank in Kuwait,North Korea,External Hack
+3/29/2019,"20,000,000",South Korea,Cryptocurrency,BitHumb,North Korea,Phishing
+5/31/2019,"3,000,000",Bangladesh,Traditional,Dutch Bangla Bank,Nonstate actor,MalWare
+6/25/2019,"26,000,000",Netherlands,Cryptocurrency,Mutiple exchanges,Unknown,External Hack
+7/12/2019,"32,000,000",Japan,Cryptocurrency,Bitpoint,Unknown,External Hack
+7/12/2019,"32,000,000",Japan,Cryptocurrency,Remixpoint,Unknown,External Hack
+9/2/2019,"300,000",Nepal,Traditional,ATMs,China,MalWare
+11/28/2019,"48,500,000",South Korea,Cryptocurrency,Upbit,Unknown,External Hack
+12/3/2019,"718,392",United Kingdom,Traditional,Private equity firms,Unknown,Phishing
+1/15/2020,"35,000,000",United Arab Emirates,Traditional,Hong Kong-based bank,Unknown,External Hack
+5/14/2020,"10,000,000",Norway,Traditional,Norway's state investment fund,Unknown,Phishing
+7/15/2020,"113,500",United States,Cryptocurrency,Twitter Accounts,Nonstate actor,Internal Hack
+7/30/2020,"21,306.82",Rwanda,Traditional,Nesen Industry Company's bank,Nonstate actor,MalWare
+10/5/2020,"3,200,000",Uganda,Traditional,Pegasus Technologies,Unknown,SIM Devices
+3/23/2021,"40,000,000",United States,Traditional,CNA Financial,Nonstate actor,MalWare
+8/18/2021,"97,000,000",Japan,Cryptocurrency,Liquid,Unknown,External Hack
+8/30/2021,"29,000,000",On-Chain,Cryptocurrency,Cream Finance,Unknown,External Hack
+10/27/2021,"130,000,000",On-Chain,Cryptocurrency,Cream Finance,Unknown,External Hack
+11/6/2021,"55,000,000",On-Chain,Cryptocurrency,bZx,Unknown,External Hack
+12/1/2021,"31,000,000",On-Chain,Cryptocurrency,MonoX Finance,Unknown,External Hack
+12/2/2021,"120,300,000",On-Chain,Cryptocurrency,BadgerDAO,Unknown,MalWare
+12/5/2021,"200,000,000",Multiple,Cryptocurrency,Bitmart,Unknown,External Hack
+12/11/2021,"77,700,000",On-Chain,Cryptocurrency,AscendEX,Unknown,External Hack
+12/23/2021,"13,700,000",Singapore,Traditional,OCBC,Unknown,Phishing
+1/17/2022,"35,000,000",Multiple,Cryptocurrency,Crypto.com,Unknown,External Hack
+1/17/2022,"1,400,000",On-Chain,Cryptocurrency,Multichain,Unknown,External Hack
+1/28/2022,"80,000,000",On-Chain,Cryptocurrency,Qubit Finance,Unknown,External Hack
+2/2/2022,"322,000,000",On-Chain,Cryptocurrency,Wormhole,Unknown,External Hack
+2/8/2022,"36,000,000",United States,Cryptocurrency,IRA Financial Trust,Unknown,External Hack
+3/23/2022,"615,000,000",On-Chain,Cryptocurrency,Ronin,North Korea,External Hack
+4/18/2022,"180,000,000",On-Chain,Cryptocurrency,Beanstalk Farms,Unknown,External Hack
+11/12/2022,"477,000,000",Bahamas,Cryptocurrency,FTX,Unknown,External Hack
