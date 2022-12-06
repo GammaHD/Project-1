@@ -37,7 +37,7 @@ significant enough to convey confidence from one of the other?
 -Amongst both of the two systems, based on the research? Which of the two conveys 
 more confidence for the future of banking?
 
-Once all our data has been process and inputed, create all our required visualizations, and DataFrames we will check for any errors or missing parts of code or sections and make sure is ready to present and push to our Project repository, completed Read.me file, and sources. for grading and make our presentation tot the class.
+Once all our data has been process and inputed, create all our required visualizations, and DataFrames we will check for any errors or missing parts of code or sections and make sure is ready to present and push to our Project repository, completed Read.me file, and sources. for grading and make our presentation to the class.
 
 
 
